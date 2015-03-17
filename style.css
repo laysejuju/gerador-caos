@@ -1,0 +1,95 @@
+﻿/* -----------------------------------------------------------------
+CSS by Layse Julyanne & Design by Ângela Oliveira - version 1.0
+
+João Pessoa, PB - Brasil - 2015
+
+--------------------------------------------------------------------*/
+
+
+body{
+background-color:#c5c5c5;
+background-image: url('retina_wood.png');
+font-family: 'Poiret One', cursive;
+color: #1C252E;
+}
+
+header,nav,section,article,footer{
+margin:5px; 
+padding:8px;
+}
+
+footer{
+max-width:635px;
+margin: 0 auto;
+}
+
+
+nav ul li a{
+color: #E85B23;
+text-decoration: none;
+padding: 5px;
+}
+
+nav ul li a:hover{
+color: #698495;
+text-decoration: none;
+}
+
+span{
+font-size: 80pt;
+}
+
+#involucro{
+max-width:720px;
+height: auto;
+margin: 0 auto;
+background-color: #FFDD00;
+}
+
+/*header*/
+
+header h1{
+font-family: 'Luckiest Guy', cursive;
+color: #0B7A96;
+max-width: 381px;
+font-size:35pt;
+margin: 50px auto;
+text-align:center;
+}
+
+#logo{
+max-width:310px;
+margin: 0 auto;
+}
+
+#imglogo{
+height: 300px;
+}
+
+
+/*nav*/
+
+#bolsa{
+max-width:295px;
+margin: 250px auto 174px auto;
+}
+
+.btnRandom {
+ color: #ffffff;
+ font-size: 50px;
+ background: #3498db;
+ padding: 30px 80px 30px 80px;
+ text-decoration: none;
+}
+
+/*Section*/
+
+#valorVariacao{
+font-family: 'Luckiest Guy', cursive;
+color: #0B7A96;
+max-width: 381px;
+font-size:40pt;
+margin: 50px auto;
+text-align:center;
+margin: 0 auto 300px auto;
+}
