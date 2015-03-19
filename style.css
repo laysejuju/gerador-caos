@@ -40,7 +40,7 @@ font-size: 80pt;
 
 #involucro{
 max-width:720px;
-height:800px;
+height:725px;
 margin: 0 auto;
 background-color: #FFDD00;
 }
@@ -52,7 +52,7 @@ font-family: 'Luckiest Guy', cursive;
 color: #0B7A96;
 max-width: 381px;
 font-size:35pt;
-margin: auto;
+margin: 30px auto;
 text-align:center;
 }
 
@@ -70,7 +70,7 @@ height: 300px;
 
 #bolsa{
 max-width:295px;
-margin: 50px auto 50px auto;
+margin: 50px auto 25px auto;
 }
 
 .btnRandom {
@@ -90,7 +90,7 @@ font-family: 'Luckiest Guy', cursive;
 color: #0B7A96;
 max-width: 381px;
 font-size:40pt;
-margin: 50px auto;
+margin: 0px auto;
 text-align:center;
 /*margin: 0 auto 300px auto;*/
 }
