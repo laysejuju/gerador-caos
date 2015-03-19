@@ -23,7 +23,6 @@ max-width:635px;
 margin: 0 auto;
 }
 
-
 nav ul li a{
 color: #E85B23;
 text-decoration: none;
@@ -41,7 +40,7 @@ font-size: 80pt;
 
 #involucro{
 max-width:720px;
-height: auto;
+height:800px;
 margin: 0 auto;
 background-color: #FFDD00;
 }
@@ -53,7 +52,7 @@ font-family: 'Luckiest Guy', cursive;
 color: #0B7A96;
 max-width: 381px;
 font-size:35pt;
-margin: 50px auto;
+margin: auto;
 text-align:center;
 }
 
@@ -71,15 +70,17 @@ height: 300px;
 
 #bolsa{
 max-width:295px;
-margin: 250px auto 174px auto;
+margin: 50px auto 50px auto;
 }
 
 .btnRandom {
- color: #ffffff;
- font-size: 50px;
- background: #3498db;
- padding: 30px 80px 30px 80px;
- text-decoration: none;
+font-family: 'Roboto', sans-serif;
+color: #ffffff;
+font-size: 50px;
+background: #3498db;
+padding: 30px 80px 30px 80px;
+text-decoration: none;
+border: 0;
 }
 
 /*Section*/
@@ -91,5 +92,5 @@ max-width: 381px;
 font-size:40pt;
 margin: 50px auto;
 text-align:center;
-margin: 0 auto 300px auto;
+/*margin: 0 auto 300px auto;*/
 }
